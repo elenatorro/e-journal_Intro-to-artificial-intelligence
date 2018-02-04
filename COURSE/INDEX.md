@@ -6,7 +6,7 @@
 
 ## [Lessons](./LESSONS)
 
-### [Lesson 1](./LESSONS/LESSON_1)
+### [Lesson 1: Welcome to AI](./LESSONS/LESSON_1)
 
 #### [Activities](./LESSONS/LESSON_1/ACTIVITIES)
 
