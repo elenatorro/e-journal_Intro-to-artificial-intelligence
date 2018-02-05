@@ -1,24 +1,29 @@
 # Stats
 
 ## COURSE
-`000000000000000000000000000000000`
+`X00000000000000000000000000000000`
 
 ### LESSON 1: Welcome to AI
-`0000000000000`
+`XXXXXXXXXXXXX`
 
-1. ACTIVITY 0
-2. ACTIVITY 0
-3. ACTIVITY 0
-4. ACTIVITY 0
-5. ACTIVITY 0
-6. ACTIVITY 0
-7. ACTIVITY 0
-8. ACTIVITY 0
-9. ACTIVITY 0
-10. ACTIVITY 0
-11. ACTIVITY 0
-12. ACTIVITY 0
-13. ACTIVITY 0
+1. ACTIVITY - Welcome to AI Class X
+2. ACTIVITY - Course Overview X
+3. ACTIVITY - Intelligent Agents X
+4. ACTIVITY - Applications of AI X
+5. ACTIVITY - Quiz - Terminology X
+6. ACTIVITY - Quiz - Poker Question X
+7. ACTIVITY - Quiz - Robot Car Question X
+8. ACTIVITY - AI and Uncertainity X
+9. ACTIVITY - Quiz - Machine Translation X
+10. ACTIVITY - Quiz - Chinese Translation 1 X
+11. ACTIVITY - Quiz - Chinese Translation 2 X
+12. ACTIVITY - Quiz - Chinese Translation 3 X
+13. ACTIVITY - Summary X
+
+Notes:
+- Great introduction.
+- Good exercise about environments.
+- "Chinese Translation" exercise was a good example, but it was separated in three different steps while it could have been understood in a single activity.
 
 ### LESSON 2: Problem Solving
 `00000000000000000000000000000000000000`
