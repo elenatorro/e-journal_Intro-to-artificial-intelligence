@@ -5,3 +5,8 @@
 
 ## 05/02/2018
 * Finished Lesson 1: Welcome to AI 🎉
+
+## 14/02/2018
+* Finished 1-8 activities from Lesson 2: Problem Solving
+* Learned about TreeSearch algorithms.
+* Refactored e-Journal structure.
