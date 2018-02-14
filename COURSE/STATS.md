@@ -26,15 +26,15 @@ Notes:
 - "Chinese Translation" exercise was a good example, but it was separated in three different steps while it could have been understood in a single activity.
 
 ### LESSON 2: Problem Solving
-`00000000000000000000000000000000000000`
+`XXXXXXX0000000000000000000000000000000`
 
-1. ACTIVITY 0
-2. ACTIVITY 0
-3. ACTIVITY 0
-4. ACTIVITY 0
-5. ACTIVITY 0
-6. ACTIVITY 0
-7. ACTIVITY 0
+1. ACTIVITY X
+2. ACTIVITY X
+3. ACTIVITY X
+4. ACTIVITY X
+5. ACTIVITY X
+6. ACTIVITY X
+7. ACTIVITY X
 8. ACTIVITY 0
 9. ACTIVITY 0
 10. ACTIVITY 0
