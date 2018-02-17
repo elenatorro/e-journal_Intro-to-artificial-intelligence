@@ -32,7 +32,7 @@ Environments can be:
 
 ## Discrete vs Continuous Environments
 
-* A discrete environment has fixed locations or time intervals (it has limits).
+* A discrete environment has fixed locations or time intervals (it has limits). It deterministic if there is a limited number of actions you can do.
 * A continuous environment could be measured quantitatively to any level of precision (it does not have limits).
 
 ## Benign vs Adversarial
