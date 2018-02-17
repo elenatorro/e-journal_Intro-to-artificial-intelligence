@@ -1,10 +1,24 @@
-# Exercises
+# Notes
 
-Initial State
+## Search Algorithms
+
+Personal notes on how I'd implement search algorithms in JavaScript.
+
+### Tree Search
 
 ```js
-{
-  city: 'Arad',
+function Node() = {
+  links: [],
+  visited: false,
+  start: '',
+  end: '',
+  value: ''
+}
+```
+
+```js
+const InitialState = {
+  city: '',
   path: 0,
   cost: 0,
   frontier: [],
@@ -12,10 +26,34 @@ Initial State
 }
 ```
 
-## Tree Search
+```js
+const Problem = {
+  state: {},
+  actions: [],
+  result: function () {},
+  goal: function() {}
+}
+```
 
+```js
+function treeSearch(problem, nodes) {
+  let frontier = [ nodes[startNode] ];
 
-### Breadth-First Search
+  while(frontier.length) {
+    const state = problem.state;  
+    const node = frontier.shift();
+
+    if (problem.goal(node.end)) return node;
+
+    for(let action in problem.actions) {
+      frontier.push(path);
+      problem.result(action(state));
+    }
+  }
+}
+```
+
+#### Breadth-First Search
 
 ```
 const Paths = {

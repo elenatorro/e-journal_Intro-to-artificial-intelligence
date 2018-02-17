@@ -10,3 +10,6 @@
 * Finished 1-8 activities from Lesson 2: Problem Solving
 * Learned about TreeSearch algorithms.
 * Refactored e-Journal structure.
+
+## 17/02/2018
+* Learned the difference between Search algorithms (Lesson 2)
