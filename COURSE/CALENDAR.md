@@ -12,4 +12,6 @@
 * Refactored e-Journal structure.
 
 ## 17/02/2018
-* Learned the difference between Search algorithms (Lesson 2)
+* Learned the difference between Search algorithms.
+* Learned about Optimistic Heuristic problem solving.
+* Finished Lesson 2: Problem Solving 🎉
