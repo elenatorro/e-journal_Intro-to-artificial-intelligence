@@ -15,3 +15,4 @@
 * Learned the difference between Search algorithms.
 * Learned about Optimistic Heuristic problem solving.
 * Finished Lesson 2: Problem Solving 🎉
+* Finished Lesson 3: Problem Set 1 🎉
